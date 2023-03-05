@@ -9,3 +9,7 @@ Currently there are notes on:
 [Movement](movement.md)
 
 [Search and Replace](searchReplace.md)
+
+[Harpoon](harpoon.md)
+
+[Telescope](telescope.md)
